@@ -1,0 +1,7 @@
+# 开发用的文件，不发布
+/AGENTS.md
+/CLAUDE.md
+/设计决定.md
+# 打包结果作为 Release 附件发布
+产品/项目启动包.zip
+.DS_Store
